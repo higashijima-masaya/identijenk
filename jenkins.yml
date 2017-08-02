@@ -12,4 +12,4 @@ dnmonster:
    image: amouat/dnmounster:1.0
 
 redis:
-   imange: redis:3.0
+   image: redis:3.0
